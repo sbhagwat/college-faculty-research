@@ -10,6 +10,7 @@ Based on transcript review and stated interests; supplements the existing 17-sch
 - Weighted GPA **4.3107** — all A / A+ through sophomore year with one A- (AP US History)
 - Strong course rigor: Biology (H), Chemistry (H), Algebra 2 (H), Geometry (H), Micro Econ (H), Exploring CS (CP)
 - Junior year: 4 APs — **AP Chemistry, AP Precalculus, AP World History, AP Lang & Composition**
+- **SAT: 1470** (Math 760, EBRW 710) — 99th percentile composite; Math is 99th+, EBRW is ~95th
 - Stated academic interests: **Biology, Bioengineering, Mathematics**
 - Residency: Massachusetts (in-state advantage for UMass)
 
@@ -74,11 +75,21 @@ python3 research_faculty.py --resume --concurrency 4
 
 The refresh workflow will automatically pick them up on the next Monday cron, or she can trigger it manually from the Actions tab.
 
+## SAT context for tier placement
+
+A 1470 composite sits:
+
+- **Above 75th percentile** for most targets on the list (UMass, NC State, UIUC, UW-Madison, Rochester, Northeastern, BU, Case Western, Rochester).
+- **Within the 25–75 range** for the high-reach tier on the original list (Brown, Columbia, JHU, CMU, Tufts).
+- **Below the 50th percentile** for the super-reaches newly added (MIT, Stanford, Caltech, Duke, Rice, Penn, Cornell, Northwestern) — admitted-student medians are typically 1520–1560. Still admissible, especially with a strong math score and rigor, but retaking could push her into the median range.
+
+**Retake recommendation**: if she wants to keep MIT/Stanford/Ivy-tier reaches realistic, targeting a ~40-point bump on the EBRW section (750+) would put her composite at 1510+ and squarely in the applicant pool. Math is already maxed for practical purposes (a 760 → 800 is not a meaningful admissions signal). Most of these schools superscore, so one more sitting with focus on EBRW is low-risk.
+
 ## Caveats
 
-These recommendations are based only on the transcript + stated interests. Final decisions should also consider:
-- Test scores (SAT/ACT) once taken
+These recommendations are based on the transcript, SAT scores, and stated interests. Final decisions should also consider:
 - Extracurriculars and specific research/project experience
+- SAT II / AP scores once available
 - Cost / financial aid preferences
 - Location / size / climate preferences
 - Specific professors/labs she wants access to (the faculty report can help here)
