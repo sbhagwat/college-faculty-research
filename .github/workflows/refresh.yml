@@ -12,11 +12,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: refresh-${{ github.ref }}
+  group: refresh
   cancel-in-progress: false
 
 jobs:
@@ -31,8 +29,7 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
       - name: Run faculty research
         env:
@@ -55,27 +52,3 @@ jobs:
             git commit -m "chore: refresh faculty research ($(date -u +%Y-%m-%d))"
             git push
           fi
-
-  deploy:
-    needs: refresh
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref }}
-
-      - name: Build site payload
-        run: |
-          mkdir -p _site
-          cp report.html _site/index.html
-          cp -f faculty_results.json faculty_results.csv faculty_results.md faculty_results.js _site/ 2>/dev/null || true
-
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - id: deployment
-        uses: actions/deploy-pages@v4
