@@ -47,12 +47,12 @@
   {
     "school": "Columbia University",
     "faculty": [],
-    "_raw": "{\n  \"school\": \"Columbia University\",\n  \"faculty\": [\n    {\n      \"name\": \"Martin Chalfie\",\n      \"department\": \"Department of Biological Sciences\",\n      \"research_area\": \"C. elegans neurobiology and mechanosensation\",\n      \"notable\": \n\"University Professor in the Department of Biological Sciences at Columbia University, shared the 2008 Nobel Prize in Chemistry for his introduction of Green Fluorescent Protein (GFP) as a biological marker.\"\n,\n      \"url\": \"https://biology.columbia.edu/content/martin-chalfie\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Brent R. Stockwell\",\n      \"department\": \"Department of Biological Sciences (and Department of Chemistry)\",\n      \"research_area\": \"Chemical biology and ferroptosis\",\n      \"notable\": \n\"Chair of the Department of Biological Sciences and a Professor at Columbia University in the Departments of Biological Science and Chemistry. His research involves the discovery of\"\n ferroptosis, a new form of regulated cell death, and he has received the Burroughs Wellcome Fund Career Award among other honors.\n      \"url\": \"https://biology.columbia.edu/content/brent-stockwell\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Wayne A. Hendrickson\",\n      \"department\": \"Department of Biochemistry and Molecular Biophysics\",\n      \"research_area\": \"Macromolecular X-ray crystallography and membrane protein structure\",\n      \"notable\": \"University Professor and Violin Family Professor; pioneer of MAD phasing in X-ray crystallography and member of the National Academy of Sciences; \nuses x-ray crystallography and electron microscopy as well as biochemical and cellular analyses to study biomolecular properties in atomic detail.\n\",\n      \"url\": \"https://www.biochem.cuimc.columbia.edu/profile/wayne-hendrickson-phd\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Samuel H. Sternberg\",\n      \"department\": \"Department of Biochemistry and Molecular Biophysics\",\n      \"research_area\": \"CRISPR-Cas biology and genome engineering\",\n      \"notable\": \n\"recipient of the NIH Director's New Innovator Award and the NSF CAREER Award, and he was named an Investigator of the Howard Hughes Medical Institute in 2024.\"\n,\n      \"url\": \"https://www.biochem.cuimc.columbia.edu/profile/samuel-sternberg-phd\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Ishmail Abdus-Saboor\",\n      \"department\": \"Department of Biological Sciences / Mortimer B. Zuckerman Mind Brain Behavior Institute\",\n      \"research_area\": \"Neurobiology of pain and touch\",\n      \"notable\": \n\"an award-winning neurobiologist and educator, whose honors include the Rita Allen Foundation Scholar in Pain Award (2020) and selection as an Alfred P. Sloan Research Fellow (2021).\"\n He is also an HHMI Freeman Hrabowski Scholar.,\n      \"url\": \"https://www.abdus-saboorlab.com/people/ishmail-abdus-saboor-3/\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Harmen J. Bussemaker\",\n      \"department\": \"Department of Biological Sciences / Department of Systems Biology\",\n      \"research_area\": \"Computational systems biology and gene regulation\",\n      \"notable\": \n\"His credentials include a Lenfest Distinguished Columbia Faculty Award and a John Simon Guggenheim Foundation Fellowship. Dr. Bussemaker is known for his pioneering efforts\"\n in computational analysis of transcription factor binding and gene regulatory networks.,\n      \"url\": \"https://systemsbiology.columbia.edu/faculty/harmen-bussemaker\",\n      \"email\": null\n    },\n    {\n      \"name\": \"Barry Honig\",\n      \"department\": \"Department of Biochemistry and Molecular Biophysics / Department of Systems Biology\",\n      \"research_area\": \"Computational structural biology and protein electrostatics\",\n      \"notable\": \n\"Barry Honig has been a professor of Biochemistry and Molecular Biophysics at Columbia University College of Physicians and Surgeons since 1981 and is director of the Center for Computational Biology\"\n and Bioinformatics; HHMI Investigator and member of the National Academy of Sciences.,\n      \"url\": \"https://systemsbiology.columbia.edu/faculty/barry-honig\",\n      \"email\": null\n    }\n  ]\n}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyLzGh6dq98DY3aPcD'}"
   },
   {
     "school": "UMass Amherst",
     "faculty": [],
-    "_raw": ""
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyM1WTBxFUWgwNWyN4'}"
   },
   {
     "school": "UC San Diego",
@@ -118,7 +118,7 @@
   {
     "school": "Boston University",
     "faculty": [],
-    "_raw": ""
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyLzGZKWYPyuJdqKwe'}"
   },
   {
     "school": "Cal Poly San Luis Obispo",
@@ -245,7 +245,7 @@
   {
     "school": "Carnegie Mellon University",
     "faculty": [],
-    "_raw": ""
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyMGdoZRUmmezfSfwn'}"
   },
   {
     "school": "Georgia Institute of Technology",
@@ -393,12 +393,12 @@
   {
     "school": "Northeastern University",
     "faculty": [],
-    "_raw": ""
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyMTJMs5w4nPA5uQBd'}"
   },
   {
     "school": "New York University",
     "faculty": [],
-    "_raw": ""
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaDYyMjfgrRnCzDcMT8iJ'}"
   },
   {
     "school": "Tufts University",
