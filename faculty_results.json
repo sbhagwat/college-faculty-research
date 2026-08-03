@@ -47,12 +47,12 @@
   {
     "school": "Columbia University",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQkmo1ZZ67kw8NVeFm'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7bBQrFLVbXoVh6hJb'}"
   },
   {
     "school": "UMass Amherst",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQko2kE9gGTms86KXQ'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7bCtqvQqW5HHvNRyy'}"
   },
   {
     "school": "UC San Diego",
@@ -118,7 +118,7 @@
   {
     "school": "Boston University",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQksk7EH68ft4i8eYb'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7bBucg14U9NCHtXAS'}"
   },
   {
     "school": "Cal Poly San Luis Obispo",
@@ -245,7 +245,7 @@
   {
     "school": "Carnegie Mellon University",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQkjZU3ahaUXDEKDxD'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7bx3SJrA2r4RXGGsL'}"
   },
   {
     "school": "Georgia Institute of Technology",
@@ -393,12 +393,12 @@
   {
     "school": "Northeastern University",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQmSjBbcvtbbsfwtR5'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7bqr8PyBNmL1VUuzL'}"
   },
   {
     "school": "New York University",
     "faculty": [],
-    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdSYQmYvd9UGoGEP3DDtR'}"
+    "_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cdfo7biuD3tNgcVQBykcy'}"
   },
   {
     "school": "Tufts University",
